@@ -1,0 +1,7 @@
+x={"weekdays":["sun","mon","tues","wednes","thurs","fri","satur"]
+,"month":["jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"]}
+
+for w in x["weekdays"]:
+    print(w)
+for m in x["month"]:
+    print(m)    
